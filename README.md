@@ -1,3 +1,5 @@
+Exploratory Data Analysis
+
 In this project, I have done some explanatory data analysis for 3 data sets:
 - Winter Olympic Games ds
 - Summer Olympic Games ds
